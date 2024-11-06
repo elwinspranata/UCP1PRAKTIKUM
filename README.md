@@ -1,4 +1,6 @@
 1. Tampa Data
-   ![Screenshot 2024-11-06 175942](https://github.com/user-attachments/assets/6e21b042-e4c4-444a-8ac7-87b0ceabd1d0)
+   ![Screenshot 2024-11-06 175942]![Screenshot 2024-11-06 184425](https://github.com/user-attachments/assets/52114606-3a08-4b0c-974a-4180bd14898d)
+
 2.ada data
-![Screenshot 2024-11-06 175942](https://github.com/user-attachments/assets/2cfb60db-bdc5-4c0e-88f9-0a095dc1bf3a)
+![Screenshot 2024-11-06 175942]![Screenshot 2024-11-06 184425](https://github.com/user-attachments/assets/856d0deb-d971-432f-81b9-0534d3da616e)
+
