@@ -160,7 +160,7 @@ fun HeaderSection() {
         horizontalAlignment = Alignment.CenterHorizontally
     ) {
         Image(
-            painter = painterResource(id = R.drawable.king),
+            painter = painterResource(id = R.drawable.kingno),
             contentDescription = null,
             modifier = Modifier
                 .size(80.dp)
